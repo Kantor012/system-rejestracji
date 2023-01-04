@@ -1,6 +1,6 @@
 # System rejestracji dla gabinetu stomatologicznego
 
-## Wymagania
+## Wymagania (dla testowania systemu lokalnie)
 
 **XAMPP**
 
